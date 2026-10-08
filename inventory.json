@@ -1,6 +1,6 @@
 {
   "dealership": "Volkswagen Of Kamloops",
-  "generated_at": "2026-09-26T12:05:04",
+  "generated_at": "2026-10-08T14:53:39",
   "vehicle_count": 99,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -10,6 +10,7 @@
       "vin": "1C4RDJDG5DC674027",
       "stock": "52119A",
       "color": "Black",
+      "trim": "Plus",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/d16504522546.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2013/dodge/durango/kamloops/bc/71409468/?sale_class=used",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2013/dodge/durango/kamloops/bc/71409468/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -19,14 +20,17 @@
       "odometer_km": 189879,
       "year": 2013,
       "make": "Dodge",
-      "model": "Durango Crew Plus",
-      "condition": "used"
+      "model": "Durango",
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2017 Volkswagen Jetta Sedan Highline 1.8T 6sp at w/Tip",
       "vin": "3VWL17AJ8HM401747",
       "stock": "52160A",
       "color": "Grey",
+      "trim": "Highline 1.8T 6sp at",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/0b289c3361bc.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2017/volkswagen/jetta-sedan/kamloops/bc/70865327/?sale_class=used",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2017/volkswagen/jetta-sedan/kamloops/bc/70865327/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -36,14 +40,17 @@
       "odometer_km": 70728,
       "year": 2017,
       "make": "Volkswagen",
-      "model": "Jetta Sedan Highline 1.8T 6sp at w/Tip",
-      "condition": "used"
+      "model": "Jetta",
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2018 Ford Edge Titanium - AWD",
       "vin": "2FMPK4K91JBC03793",
       "stock": "51661A",
       "color": "Black",
+      "trim": "Titanium",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/5c5a3e5d1552.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2018/ford/edge/kamloops/bc/68738293/?sale_class=used",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2018/ford/edge/kamloops/bc/68738293/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -53,14 +60,17 @@
       "odometer_km": 134010,
       "year": 2018,
       "make": "Ford",
-      "model": "Edge Titanium - AWD",
-      "condition": "used"
+      "model": "Edge",
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2018 Volkswagen Atlas Execline 3.6L 8sp at w/Tip 4MOTION",
       "vin": "1V2TR2CA7JC552466",
       "stock": "52115A",
       "color": "Black",
+      "trim": "Execline 8sp at",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/f714de931df2.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2018/volkswagen/atlas/kamloops/bc/71283498/?sale_class=used",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2018/volkswagen/atlas/kamloops/bc/71283498/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -70,14 +80,17 @@
       "odometer_km": 135180,
       "year": 2018,
       "make": "Volkswagen",
-      "model": "Atlas Execline 3.6L 8sp at w/Tip 4MOTION",
-      "condition": "used"
+      "model": "Atlas",
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2018 Volkswagen Tiguan Trendline 2.0T 8sp at w/Tip 4M",
       "vin": "3VV0B7AX0JM007559",
       "stock": "52077A",
       "color": "White",
+      "trim": "Trendline 2.0T 8sp at",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/348415d46c37.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2018/volkswagen/tiguan/kamloops/bc/70230412/?sale_class=used",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2018/volkswagen/tiguan/kamloops/bc/70230412/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -87,14 +100,17 @@
       "odometer_km": 127508,
       "year": 2018,
       "make": "Volkswagen",
-      "model": "Tiguan Trendline 2.0T 8sp at w/Tip 4M",
-      "condition": "used"
+      "model": "Tiguan",
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2019 Jeep Cherokee 4x4 Trailhawk",
       "vin": "1C4PJMBX7KD210958",
       "stock": "52106A",
       "color": "Brown",
+      "trim": "Trailhawk",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/5ac90dd496b3.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2019/jeep/cherokee/kamloops/bc/71283515/?sale_class=used",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2019/jeep/cherokee/kamloops/bc/71283515/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -104,14 +120,17 @@
       "odometer_km": 149497,
       "year": 2019,
       "make": "Jeep",
-      "model": "Cherokee 4x4 Trailhawk",
-      "condition": "used"
+      "model": "Cherokee",
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2020 Dodge Durango GT",
       "vin": "1C4RDJDG3LC114618",
       "stock": "11575B",
       "color": "Grey",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/25da6d3b748b.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2020/dodge/durango/kamloops/bc/69890293/?sale_class=used",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2020/dodge/durango/kamloops/bc/69890293/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -121,14 +140,17 @@
       "odometer_km": 96103,
       "year": 2020,
       "make": "Dodge",
-      "model": "Durango GT",
-      "condition": "used"
+      "model": "Durango",
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2020 Honda CR-V EX-L 4WD",
       "vin": "2HKRW2H81LH242766",
       "stock": "51972A",
       "color": "White",
+      "trim": "EX-L",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/fa332e3f5e9c.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2020/honda/cr-v/kamloops/bc/68848712/?sale_class=used",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2020/honda/cr-v/kamloops/bc/68848712/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -138,14 +160,17 @@
       "odometer_km": 89990,
       "year": 2020,
       "make": "Honda",
-      "model": "CR-V EX-L 4WD",
-      "condition": "used"
+      "model": "CR-V",
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2020 Subaru Forester Limited CVT",
       "vin": "JF2SKEUC7LH514200",
       "stock": "11648",
       "color": "Red",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/073345f77f84.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2020/subaru/forester/kamloops/bc/71150498/?sale_class=used",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2020/subaru/forester/kamloops/bc/71150498/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -155,14 +180,17 @@
       "odometer_km": 67020,
       "year": 2020,
       "make": "Subaru",
-      "model": "Forester Limited CVT",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2021 Nissan Murano Platinum AWD CVT",
       "vin": "5N1AZ2DS8MC100848",
       "stock": "52125A",
       "color": "Red",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/87e7a1680077.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2021/nissan/murano/kamloops/bc/71384037/?sale_class=used",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2021/nissan/murano/kamloops/bc/71384037/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -172,14 +200,17 @@
       "odometer_km": 126506,
       "year": 2021,
       "make": "Nissan",
-      "model": "Murano Platinum AWD CVT",
-      "condition": "used"
+      "model": "Murano",
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2021 Volkswagen Atlas Cross Sport Execline 2.0T 8sp at w/Tip 4MOTION",
       "vin": "1V2FC2CA5MC229732",
       "stock": "11631",
       "color": "Black",
+      "trim": "Execline 2.0T 8sp at",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/7c321b59b2ff.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2021/volkswagen/atlas-cross-sport/kamloops/bc/70583551/?sale_class=used",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2021/volkswagen/atlas-cross-sport/kamloops/bc/70583551/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -189,14 +220,17 @@
       "odometer_km": 57953,
       "year": 2021,
       "make": "Volkswagen",
-      "model": "Atlas Cross Sport Execline 2.0T 8sp at w/Tip 4MOTION",
-      "condition": "used"
+      "model": "Atlas Cross Sport",
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Escape SEL AWD 1.5L",
       "vin": "1FMCU9H69NUA55248",
       "stock": "11609A1",
       "color": "Silver",
+      "trim": "SEL",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/48039e0c2738.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2022/ford/escape/kamloops/bc/69901631/?sale_class=used",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2022/ford/escape/kamloops/bc/69901631/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -206,14 +240,17 @@
       "odometer_km": 99423,
       "year": 2022,
       "make": "Ford",
-      "model": "Escape SEL AWD 1.5L",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2022 Lexus NX 350",
       "vin": "JTJGGCEZ7N5002810",
       "stock": "52164B",
       "color": "Grey",
+      "trim": "350",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/7d80ac273ec0.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2022/lexus/nx/kamloops/bc/71283507/?sale_class=used",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2022/lexus/nx/kamloops/bc/71283507/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -223,14 +260,17 @@
       "odometer_km": 34872,
       "year": 2022,
       "make": "Lexus",
-      "model": "NX 350",
-      "condition": "used"
+      "model": "NX",
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2022 Mazda CX-30 GT AWD 2.5L I4 at",
       "vin": "3MVDMBDL7NM426941",
       "stock": "11638",
       "color": "Red",
+      "trim": "GT I4 at",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/0c629a054541.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2022/mazda/cx-30/kamloops/bc/70583552/?sale_class=used",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2022/mazda/cx-30/kamloops/bc/70583552/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -240,14 +280,17 @@
       "odometer_km": 42020,
       "year": 2022,
       "make": "Mazda",
-      "model": "CX-30 GT AWD 2.5L I4 at",
-      "condition": "used"
+      "model": "CX-30",
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2022 Toyota Highlander Limited AWD",
       "vin": "5TDFZRBH9NS169400",
       "stock": "51930A",
       "color": "Silver",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/c9bd08e6605f.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2022/toyota/highlander/kamloops/bc/70437004/?sale_class=used",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2022/toyota/highlander/kamloops/bc/70437004/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -257,14 +300,17 @@
       "odometer_km": 116224,
       "year": 2022,
       "make": "Toyota",
-      "model": "Highlander Limited AWD",
-      "condition": "used"
+      "model": "Highlander",
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2022 Volkswagen Taos Trendline 1.5T 7sp at DSG w/ Tip 4M",
       "vin": "3VVAX7B23NM044247",
       "stock": "52002A",
       "color": "Black",
+      "trim": "Trendline 1.5T 7sp at DSG",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/023bc5d5cf50.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2022/volkswagen/taos/kamloops/bc/71090947/?sale_class=used",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2022/volkswagen/taos/kamloops/bc/71090947/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -274,14 +320,17 @@
       "odometer_km": 98251,
       "year": 2022,
       "make": "Volkswagen",
-      "model": "Taos Trendline 1.5T 7sp at DSG w/ Tip 4M",
-      "condition": "used"
+      "model": "Taos",
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2022 Volvo XC40 T5 AWD R-Design",
       "vin": "YV4162UM6N2674190",
       "stock": "52178A",
       "color": "Black",
+      "trim": "T5 R-Design",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/972b90726c41.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2022/volvo/xc40/kamloops/bc/70846260/?sale_class=used",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2022/volvo/xc40/kamloops/bc/70846260/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -291,14 +340,17 @@
       "odometer_km": 48163,
       "year": 2022,
       "make": "Volvo",
-      "model": "XC40 T5 AWD R-Design",
-      "condition": "used"
+      "model": "XC40",
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2023 Lincoln Corsair Base AWD",
       "vin": "5LMCJ1DA8PUL03266",
       "stock": "52069A",
       "color": "Grey",
+      "trim": "Base",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/8d75b4cac364.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2023/lincoln/corsair/kamloops/bc/70489900/?sale_class=used",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2023/lincoln/corsair/kamloops/bc/70489900/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -308,14 +360,17 @@
       "odometer_km": 61596,
       "year": 2023,
       "make": "Lincoln",
-      "model": "Corsair Base AWD",
-      "condition": "used"
+      "model": "Corsair",
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Kona 2.0L Preferred AWD",
       "vin": "KM8HBCAB2RU118857",
       "stock": "51961A",
       "color": "Red",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/9f12844ae2ac.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2024/hyundai/kona/kamloops/bc/70713362/?sale_class=used",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2024/hyundai/kona/kamloops/bc/70713362/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -325,14 +380,17 @@
       "odometer_km": 49251,
       "year": 2024,
       "make": "Hyundai",
-      "model": "Kona 2.0L Preferred AWD",
-      "condition": "used"
+      "model": "Kona",
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Pathfinder Platinum 4WD",
       "vin": "5N1DR3DF0RC224836",
       "stock": "52142A",
       "color": "Grey",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/532abc5c5452.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2024/nissan/pathfinder/kamloops/bc/70964121/?sale_class=used",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2024/nissan/pathfinder/kamloops/bc/70964121/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -342,14 +400,17 @@
       "odometer_km": 100162,
       "year": 2024,
       "make": "Nissan",
-      "model": "Pathfinder Platinum 4WD",
-      "condition": "used"
+      "model": "Pathfinder",
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Legacy Sedan GT CVT",
       "vin": "4S3BWHH64R3002926",
       "stock": "52042A",
       "color": "Grey",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/8212e4a7794d.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2024/subaru/legacy-sedan/kamloops/bc/71283520/?sale_class=used",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2024/subaru/legacy-sedan/kamloops/bc/71283520/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -359,14 +420,17 @@
       "odometer_km": 51508,
       "year": 2024,
       "make": "Subaru",
-      "model": "Legacy Sedan GT CVT",
-      "condition": "used"
+      "model": "Legacy",
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Atlas Cross Sport Highline 2.0 TSI 4MOTION",
       "vin": "1V2BE2CA9RC201237",
       "stock": "52194A",
       "color": "Silver",
+      "trim": "Highline 2.0 TSI 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/5d2536765a91.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2024/volkswagen/atlas-cross-sport/kamloops/bc/70642299/?sale_class=used",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2024/volkswagen/atlas-cross-sport/kamloops/bc/70642299/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -376,14 +440,17 @@
       "odometer_km": 42801,
       "year": 2024,
       "make": "Volkswagen",
-      "model": "Atlas Cross Sport Highline 2.0 TSI 4MOTION",
-      "condition": "used"
+      "model": "Atlas Cross Sport",
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Atlas Execline 2.0 TSI 4MOTION",
       "vin": "1V2FR2CA9RC615060",
       "stock": "11651",
       "color": "Black",
+      "trim": "Execline 2.0 TSI 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/b09d496a7e33.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2024/volkswagen/atlas/kamloops/bc/71111783/?sale_class=used",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2024/volkswagen/atlas/kamloops/bc/71111783/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -393,14 +460,17 @@
       "odometer_km": 34250,
       "year": 2024,
       "make": "Volkswagen",
-      "model": "Atlas Execline 2.0 TSI 4MOTION",
-      "condition": "used"
+      "model": "Atlas",
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Jetta GLI 6Sp 2.0T 40th Anniversary Edt",
       "vin": "3VW8T7BU5RM011554",
       "stock": "11640",
       "color": "White",
+      "trim": "6Sp 2.0T 40th Anniversary Edt",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/e0a4948e6be3.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2024/volkswagen/jetta-gli/kamloops/bc/70713383/?sale_class=used",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2024/volkswagen/jetta-gli/kamloops/bc/70713383/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -410,14 +480,17 @@
       "odometer_km": 20022,
       "year": 2024,
       "make": "Volkswagen",
-      "model": "Jetta GLI 6Sp 2.0T 40th Anniversary Edt",
-      "condition": "used"
+      "model": "Jetta GLI",
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Jetta Sedan Comfortline 1.5 T 8Sp at w/Tip",
       "vin": "3VWSM7BU1RM025325",
       "stock": "11656",
       "color": "White",
+      "trim": "Comfortline 1.5 T 8Sp at",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/bea520bef90f.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2024/volkswagen/jetta-sedan/kamloops/bc/71384031/?sale_class=used",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2024/volkswagen/jetta-sedan/kamloops/bc/71384031/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -427,14 +500,17 @@
       "odometer_km": 51060,
       "year": 2024,
       "make": "Volkswagen",
-      "model": "Jetta Sedan Comfortline 1.5 T 8Sp at w/Tip",
-      "condition": "used"
+      "model": "Jetta",
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Tiguan Comfortline R-Line Black 2.0T 8sp at w/Tip 4M",
       "vin": "3VV8B7AX3RM226448",
       "stock": "52181A",
       "color": "White",
+      "trim": "Comfortline R-Line Black 2.0T 8sp at",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/3710f18e6f33.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2024/volkswagen/tiguan/kamloops/bc/71395455/?sale_class=used",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2024/volkswagen/tiguan/kamloops/bc/71395455/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -444,14 +520,17 @@
       "odometer_km": 12620,
       "year": 2024,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortline R-Line Black 2.0T 8sp at w/Tip 4M",
-      "condition": "used"
+      "model": "Tiguan",
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2025 Acura RDX Platinum Elite A-Spec AWD",
       "vin": "5J8TC2H89SL803404",
       "stock": "51993A",
       "color": "Black",
+      "trim": "Platinum Elite A-Spec",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/6ea7c3ff22af.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2025/acura/rdx/kamloops/bc/69326472/?sale_class=used",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2025/acura/rdx/kamloops/bc/69326472/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -461,14 +540,17 @@
       "odometer_km": 14445,
       "year": 2025,
       "make": "Acura",
-      "model": "RDX Platinum Elite A-Spec AWD",
-      "condition": "used"
+      "model": "RDX",
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Jetta Sedan Comfortline Auto",
       "vin": "3VWSX7BUXSM049538",
       "stock": "11643",
       "color": "Blue",
+      "trim": "Comfortline Auto",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/f6f3bc80ca6d.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2025/volkswagen/jetta-sedan/kamloops/bc/70752166/?sale_class=used",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2025/volkswagen/jetta-sedan/kamloops/bc/70752166/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -478,14 +560,17 @@
       "odometer_km": 12735,
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Jetta Sedan Comfortline Auto",
-      "condition": "used"
+      "model": "Jetta",
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Taos Highline 4MOTION",
       "vin": "3VV4C7B21SM064100",
       "stock": "51841",
       "color": "Black",
+      "trim": "Highline 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/57adb5103fcc.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2025/volkswagen/taos/kamloops/bc/68738060/?sale_class=used",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2025/volkswagen/taos/kamloops/bc/68738060/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -495,14 +580,17 @@
       "odometer_km": 4969,
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Taos Highline 4MOTION",
-      "condition": "used"
+      "model": "Taos",
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Tiguan Trendline 4MOTION",
       "vin": "3VVBR7RM2SM052664",
       "stock": "51894",
       "color": "Black",
+      "trim": "Trendline 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/70ff0a84bc39.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2025/volkswagen/tiguan/kamloops/bc/68738061/?sale_class=used",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2025/volkswagen/tiguan/kamloops/bc/68738061/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -512,14 +600,17 @@
       "odometer_km": 2642,
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Tiguan Trendline 4MOTION",
-      "condition": "used"
+      "model": "Tiguan",
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Tiguan Trendline 4MOTION",
       "vin": "3VVBR7RM3SM034559",
       "stock": "11637",
       "color": "Silver",
+      "trim": "Trendline 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/042de4b37742.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2025/volkswagen/tiguan/kamloops/bc/70642314/?sale_class=used",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2025/volkswagen/tiguan/kamloops/bc/70642314/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -529,14 +620,17 @@
       "odometer_km": 777,
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Tiguan Trendline 4MOTION",
-      "condition": "used"
+      "model": "Tiguan",
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen ID. Buzz 1st Edition 4MOTION",
       "vin": "WVG6YVEBXSH036952",
       "stock": "52196",
       "color": "Grey",
+      "trim": "1st Edition 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/e514e80d51fc.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2025/volkswagen/id.-buzz/kamloops/bc/70654575/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2025/volkswagen/id.-buzz/kamloops/bc/70654575/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -546,14 +640,17 @@
       "odometer_km": 90,
       "year": 2025,
       "make": "Volkswagen",
-      "model": "ID. Buzz 1st Edition 4MOTION",
-      "condition": "new"
+      "model": "ID. Buzz",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Atlas Cross Sport Execline 4MOTION",
       "vin": "1V2FC2CAXTC211970",
       "stock": "52149A",
       "color": "Black",
+      "trim": "Execline 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/3ba8bb95279c.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/atlas-cross-sport/kamloops/bc/71384041/?sale_class=used",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/atlas-cross-sport/kamloops/bc/71384041/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -563,14 +660,17 @@
       "odometer_km": 16577,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Atlas Cross Sport Execline 4MOTION",
-      "condition": "used"
+      "model": "Atlas Cross Sport",
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Atlas Cross Sport Highline 4MOTION",
       "vin": "1V2BC2CA2TC220340",
       "stock": "52073",
       "color": "Black",
+      "trim": "Highline 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/621829092008.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/atlas-cross-sport/kamloops/bc/69437558/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/atlas-cross-sport/kamloops/bc/69437558/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -580,14 +680,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Atlas Cross Sport Highline 4MOTION",
-      "condition": "new"
+      "model": "Atlas Cross Sport",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Atlas Cross Sport Execline 4MOTION",
       "vin": "1V2FC2CA4TC223869",
       "stock": "52144",
       "color": "Black",
+      "trim": "Execline 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/f1a3b73bc7bb.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/atlas-cross-sport/kamloops/bc/69540264/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/atlas-cross-sport/kamloops/bc/69540264/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -597,14 +700,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Atlas Cross Sport Execline 4MOTION",
-      "condition": "new"
+      "model": "Atlas Cross Sport",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Atlas Cross Sport Highline 4MOTION",
       "vin": "1V2BC2CA9TC223834",
       "stock": "52118",
       "color": "White",
+      "trim": "Highline 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/50ee791253c2.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/atlas-cross-sport/kamloops/bc/69540286/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/atlas-cross-sport/kamloops/bc/69540286/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -614,14 +720,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Atlas Cross Sport Highline 4MOTION",
-      "condition": "new"
+      "model": "Atlas Cross Sport",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Atlas Cross Sport Execline 4MOTION",
       "vin": "1V2FC2CA8TC225091",
       "stock": "52133",
       "color": "Black",
+      "trim": "Execline 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/38f06866e73d.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/atlas-cross-sport/kamloops/bc/69654994/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/atlas-cross-sport/kamloops/bc/69654994/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -631,14 +740,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Atlas Cross Sport Execline 4MOTION",
-      "condition": "new"
+      "model": "Atlas Cross Sport",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Atlas Cross Sport Highline 4MOTION",
       "vin": "1V2BC2CA4TC226057",
       "stock": "52157",
       "color": "Black",
+      "trim": "Highline 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/5c361c83c1f9.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/atlas-cross-sport/kamloops/bc/69755931/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/atlas-cross-sport/kamloops/bc/69755931/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -648,14 +760,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Atlas Cross Sport Highline 4MOTION",
-      "condition": "new"
+      "model": "Atlas Cross Sport",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Atlas Cross Sport Comfortline 4MOTION",
       "vin": "1V2LC2CA5TC224774",
       "stock": "52189",
       "color": "Green",
+      "trim": "Comfortline 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/064d9d6fd9fc.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/atlas-cross-sport/kamloops/bc/70360503/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/atlas-cross-sport/kamloops/bc/70360503/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -665,14 +780,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Atlas Cross Sport Comfortline 4MOTION",
-      "condition": "new"
+      "model": "Atlas Cross Sport",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Atlas Cross Sport Highline 4MOTION",
       "vin": "1V2BC2CAXTC233448",
       "stock": "52208",
       "color": "Green",
+      "trim": "Highline 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/ddef93b67e1c.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/atlas-cross-sport/kamloops/bc/70415887/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/atlas-cross-sport/kamloops/bc/70415887/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -682,14 +800,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Atlas Cross Sport Highline 4MOTION",
-      "condition": "new"
+      "model": "Atlas Cross Sport",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Atlas Cross Sport Highline 4MOTION",
       "vin": "1V2BC2CA7TC237781",
       "stock": "52221",
       "color": "Grey",
+      "trim": "Highline 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/392ccd582467.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/atlas-cross-sport/kamloops/bc/70792039/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/atlas-cross-sport/kamloops/bc/70792039/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -699,14 +820,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Atlas Cross Sport Highline 4MOTION",
-      "condition": "new"
+      "model": "Atlas Cross Sport",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Atlas Highline 4MOTION",
       "vin": "1V2BN2CA2TC521734",
       "stock": "51995",
       "color": "Silver",
+      "trim": "Highline 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/dca2916bcf52.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/atlas/kamloops/bc/68750725/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/atlas/kamloops/bc/68750725/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -716,14 +840,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Atlas Highline 4MOTION",
-      "condition": "new"
+      "model": "Atlas",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Atlas Highline 4MOTION",
       "vin": "1V2BN2CA1TC525290",
       "stock": "51992",
       "color": "Blue",
+      "trim": "Highline 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/19b8330c73f6.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/atlas/kamloops/bc/68750730/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/atlas/kamloops/bc/68750730/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -733,14 +860,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Atlas Highline 4MOTION",
-      "condition": "new"
+      "model": "Atlas",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Atlas Highline 4MOTION",
       "vin": "1V2BN2CA0TC549340",
       "stock": "52081",
       "color": "White",
+      "trim": "Highline 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/20688573d05f.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/atlas/kamloops/bc/69437549/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/atlas/kamloops/bc/69437549/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -750,14 +880,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Atlas Highline 4MOTION",
-      "condition": "new"
+      "model": "Atlas",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Atlas Highline 4MOTION",
       "vin": "1V2BN2CA8TC560022",
       "stock": "52130",
       "color": "White",
+      "trim": "Highline 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/291c661b904e.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/atlas/kamloops/bc/69580256/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/atlas/kamloops/bc/69580256/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -767,14 +900,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Atlas Highline 4MOTION",
-      "condition": "new"
+      "model": "Atlas",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Atlas Execline 2.0 TSI 4MOTION",
       "vin": "1V2FN2CAXTC558452",
       "stock": "52210",
       "color": "Grey",
+      "trim": "Execline 2.0 TSI 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/a584c8fcfd48.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/atlas/kamloops/bc/71001469/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/atlas/kamloops/bc/71001469/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -784,14 +920,17 @@
       "odometer_km": 192,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Atlas Execline 2.0 TSI 4MOTION",
-      "condition": "new"
+      "model": "Atlas",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Golf GTI GTI Autobahn",
       "vin": "WVWNE7CD5TW219407",
       "stock": "52100",
       "color": "Grey",
+      "trim": "GTI Autobahn",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/7ddc0ae5c3aa.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/golf-gti/kamloops/bc/69437517/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/golf-gti/kamloops/bc/69437517/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -801,14 +940,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Golf GTI GTI Autobahn",
-      "condition": "new"
+      "model": "Golf GTI",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Golf GTI GTI Autobahn",
       "vin": "WVWNE7CD9TW219829",
       "stock": "52099",
       "color": "Blue",
+      "trim": "GTI Autobahn",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/010bfaca206a.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/golf-gti/kamloops/bc/69437546/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/golf-gti/kamloops/bc/69437546/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -818,14 +960,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Golf GTI GTI Autobahn",
-      "condition": "new"
+      "model": "Golf GTI",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Golf R R 4MOTION",
       "vin": "WVWJF7CD4TW206983",
       "stock": "52091",
       "color": "White",
+      "trim": "R 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/04200234417c.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/golf-r/kamloops/bc/69437548/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/golf-r/kamloops/bc/69437548/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -835,14 +980,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Golf R R 4MOTION",
-      "condition": "new"
+      "model": "Golf R",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Golf R R 4MOTION",
       "vin": "WVWJF7CDXTW206910",
       "stock": "52101",
       "color": "Black",
+      "trim": "R 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/4dc964a58f38.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/golf-r/kamloops/bc/69437553/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/golf-r/kamloops/bc/69437553/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -852,14 +1000,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Golf R R 4MOTION",
-      "condition": "new"
+      "model": "Golf R",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Golf R R Black Edition 4MOTION",
       "vin": "WVWKF7CD9TW282901",
       "stock": "52213",
       "color": "Grey",
+      "trim": "R Black Edition 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/25743dde2b4d.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/golf-r/kamloops/bc/70584868/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/golf-r/kamloops/bc/70584868/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -869,14 +1020,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Golf R R Black Edition 4MOTION",
-      "condition": "new"
+      "model": "Golf R",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Sedan Highline",
       "vin": "3VWGW7BUXTM003489",
       "stock": "51925",
       "color": "Silver",
+      "trim": "Highline",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/25ad04a8378b.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/jetta-sedan/kamloops/bc/68738058/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/jetta-sedan/kamloops/bc/68738058/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -886,14 +1040,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Sedan Highline",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Sedan Trendline",
       "vin": "3VWCW7BU7TM030194",
       "stock": "52045",
       "color": "Silver",
+      "trim": "Trendline",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/255a4e419780.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/jetta-sedan/kamloops/bc/69144411/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/jetta-sedan/kamloops/bc/69144411/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -903,14 +1060,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Sedan Trendline",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Sedan Highline",
       "vin": "3VWGW7BUXTM062431",
       "stock": "52177",
       "color": "Blue",
+      "trim": "Highline",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/9b03ed16f676.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/jetta-sedan/kamloops/bc/69944986/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/jetta-sedan/kamloops/bc/69944986/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -920,14 +1080,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Sedan Highline",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Sedan Trendline",
       "vin": "3VWCW7BU8TM067237",
       "stock": "52215",
       "color": "White",
+      "trim": "Trendline",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/d3c20fe18aeb.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/jetta-sedan/kamloops/bc/70959343/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/jetta-sedan/kamloops/bc/70959343/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -937,14 +1100,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Sedan Trendline",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos Comfortline Black 4MOTION",
       "vin": "3VV2C7B20TM022803",
       "stock": "51989",
       "color": "Green",
+      "trim": "Comfortline Black 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/616d056f15ee.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/taos/kamloops/bc/68738046/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/taos/kamloops/bc/68738046/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -954,14 +1120,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos Comfortline Black 4MOTION",
-      "condition": "new"
+      "model": "Taos",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos Highline 4MOTION",
       "vin": "3VV4C7B26TM031434",
       "stock": "52017",
       "color": "Blue",
+      "trim": "Highline 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/2263667395ea.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/taos/kamloops/bc/68962219/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/taos/kamloops/bc/68962219/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -971,14 +1140,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos Highline 4MOTION",
-      "condition": "new"
+      "model": "Taos",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos Comfortline Black 4MOTION",
       "vin": "3VV2C7B23TM022682",
       "stock": "52009",
       "color": "Green",
+      "trim": "Comfortline Black 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/8b2314747a70.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/taos/kamloops/bc/68962229/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/taos/kamloops/bc/68962229/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -988,14 +1160,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos Comfortline Black 4MOTION",
-      "condition": "new"
+      "model": "Taos",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos Comfortline Black 4MOTION",
       "vin": "3VV2C7B2XTM036143",
       "stock": "52034",
       "color": "Black",
+      "trim": "Comfortline Black 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/93a08cdb020c.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/taos/kamloops/bc/69046018/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/taos/kamloops/bc/69046018/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1005,14 +1180,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos Comfortline Black 4MOTION",
-      "condition": "new"
+      "model": "Taos",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos Comfortline Black 4MOTION",
       "vin": "3VV2C7B27TM035001",
       "stock": "52025",
       "color": "Black",
+      "trim": "Comfortline Black 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/1c5df1ea7ff3.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/taos/kamloops/bc/69046023/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/taos/kamloops/bc/69046023/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1022,14 +1200,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos Comfortline Black 4MOTION",
-      "condition": "new"
+      "model": "Taos",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos Comfortline Black 4MOTION",
       "vin": "3VV2C7B24TM046103",
       "stock": "52072",
       "color": "Black",
+      "trim": "Comfortline Black 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/4c5740664547.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/taos/kamloops/bc/69437534/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/taos/kamloops/bc/69437534/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1039,14 +1220,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos Comfortline Black 4MOTION",
-      "condition": "new"
+      "model": "Taos",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos Comfortline Black 4MOTION",
       "vin": "3VV2C7B2XTM058238",
       "stock": "52122",
       "color": "Green",
+      "trim": "Comfortline Black 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/585d22578f93.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/taos/kamloops/bc/69540306/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/taos/kamloops/bc/69540306/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1056,14 +1240,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos Comfortline Black 4MOTION",
-      "condition": "new"
+      "model": "Taos",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos Comfortline 4MOTION",
       "vin": "3VVVC7B29TM072631",
       "stock": "52182",
       "color": "Grey",
+      "trim": "Comfortline 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/5e42a6ca4fde.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/taos/kamloops/bc/69956944/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/taos/kamloops/bc/69956944/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1073,14 +1260,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos Comfortline 4MOTION",
-      "condition": "new"
+      "model": "Taos",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortline R-Line Black Edition 4MOTION",
       "vin": "3VVGR7RM2TM065048",
       "stock": "52063",
       "color": "Grey",
+      "trim": "Comfortline R-Line Black Edition 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/0ad09b0398df.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/69421004/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/69421004/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1090,14 +1280,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortline R-Line Black Edition 4MOTION",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Trendline 4MOTION",
       "vin": "3VVBR7RM0TM083333",
       "stock": "52107",
       "color": "Grey",
+      "trim": "Trendline 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/44c1a41fe8af.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/69451429/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/69451429/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1107,14 +1300,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Trendline 4MOTION",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortline 4MOTION",
       "vin": "3VVER7RM4TM083543",
       "stock": "52095",
       "color": "Black",
+      "trim": "Comfortline 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/69c2b96b111a.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/69463648/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/69463648/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1124,14 +1320,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortline 4MOTION",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortline 4MOTION",
       "vin": "3VVER7RM9TM084655",
       "stock": "52121",
       "color": "Black",
+      "trim": "Comfortline 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/d04c7afda192.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/69476168/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/69476168/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1141,14 +1340,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortline 4MOTION",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortline R-Line Black Edition 4MOTION",
       "vin": "3VVGR7RMXTM088416",
       "stock": "52112",
       "color": "White",
+      "trim": "Comfortline R-Line Black Edition 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/3b77b86ae95a.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/69540269/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/69540269/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1158,14 +1360,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortline R-Line Black Edition 4MOTION",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Trendline 4MOTION",
       "vin": "3VVBR7RM8TM092040",
       "stock": "52145",
       "color": "Blue",
+      "trim": "Trendline 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/7ad12296fe79.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/69603863/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/69603863/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1175,14 +1380,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Trendline 4MOTION",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortline R-Line Black Edition 4MOTION",
       "vin": "3VVGR7RM1TM095027",
       "stock": "52147",
       "color": "White",
+      "trim": "Comfortline R-Line Black Edition 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/14645fdf0ddc.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/69684736/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/69684736/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1192,14 +1400,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortline R-Line Black Edition 4MOTION",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Trendline 4MOTION",
       "vin": "3VVBR7RMXTM099202",
       "stock": "52152",
       "color": "Black",
+      "trim": "Trendline 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/45c624617792.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/69745965/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/69745965/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1209,14 +1420,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Trendline 4MOTION",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Trendline 4MOTION",
       "vin": "3VVBR7RM2TM103789",
       "stock": "52158",
       "color": "White",
+      "trim": "Trendline 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/4e73aa280412.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/69840153/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/69840153/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1226,14 +1440,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Trendline 4MOTION",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortline R-Line Black Edition 4MOTION",
       "vin": "3VVGR7RM8TM110140",
       "stock": "52172",
       "color": "Silver",
+      "trim": "Comfortline R-Line Black Edition 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/d69c3f34a0a8.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/69944979/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/69944979/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1243,14 +1460,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortline R-Line Black Edition 4MOTION",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortline R-Line Black Edition 4MOTION",
       "vin": "3VVGR7RM7TM110839",
       "stock": "52173",
       "color": "Grey",
+      "trim": "Comfortline R-Line Black Edition 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/cafec4a4c8d2.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/69956943/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/69956943/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1260,14 +1480,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortline R-Line Black Edition 4MOTION",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortline R-Line Black Edition 4MOTION",
       "vin": "3VVGR7RM4TM111429",
       "stock": "52185",
       "color": "Silver",
+      "trim": "Comfortline R-Line Black Edition 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/17434f32aedd.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/69969033/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/69969033/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1277,14 +1500,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortline R-Line Black Edition 4MOTION",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortline R-Line Black Edition 4MOTION",
       "vin": "3VVGR7RM8TM114544",
       "stock": "52165",
       "color": "Black",
+      "trim": "Comfortline R-Line Black Edition 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/e1eda11cedd4.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/70029262/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/70029262/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1294,14 +1520,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortline R-Line Black Edition 4MOTION",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortline R-Line Black Edition 4MOTION",
       "vin": "3VVGR7RM1TM115129",
       "stock": "52171",
       "color": "Black",
+      "trim": "Comfortline R-Line Black Edition 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/652c88653e07.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/70029268/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/70029268/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1311,14 +1540,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortline R-Line Black Edition 4MOTION",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortline R-Line Black Edition 4MOTION",
       "vin": "3VVGR7RM1TM116233",
       "stock": "52188",
       "color": "White",
+      "trim": "Comfortline R-Line Black Edition 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/386e869e99d3.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/70055585/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/70055585/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1328,14 +1560,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortline R-Line Black Edition 4MOTION",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortline R-Line Black Edition 4MOTION",
       "vin": "3VVGR7RM0TM116742",
       "stock": "52187",
       "color": "Black",
+      "trim": "Comfortline R-Line Black Edition 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/7c29dfcb92f2.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/70055603/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/70055603/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1345,14 +1580,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortline R-Line Black Edition 4MOTION",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortline R-Line Black Edition 4MOTION",
       "vin": "3VVGR7RM6TM116051",
       "stock": "52174",
       "color": "Black",
+      "trim": "Comfortline R-Line Black Edition 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/cbfae06cb3ac.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/70124384/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/70124384/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1362,14 +1600,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortline R-Line Black Edition 4MOTION",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortline R-Line Black Edition 4MOTION",
       "vin": "3VVGR7RM0TM141009",
       "stock": "52207",
       "color": "White",
+      "trim": "Comfortline R-Line Black Edition 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/ad98882defe9.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/70479751/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/70479751/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1379,14 +1620,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortline R-Line Black Edition 4MOTION",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortline R-Line Black Edition 4MOTION",
       "vin": "3VVGR7RM1TM140922",
       "stock": "52203",
       "color": "Blue",
+      "trim": "Comfortline R-Line Black Edition 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/7ed801c895b4.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/70479752/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/70479752/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1396,14 +1640,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortline R-Line Black Edition 4MOTION",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortline R-Line Black Edition 4MOTION",
       "vin": "3VVGR7RM2TM140962",
       "stock": "52206",
       "color": "Grey",
+      "trim": "Comfortline R-Line Black Edition 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/fa2d759c0a49.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/70491099/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/70491099/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1413,14 +1660,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortline R-Line Black Edition 4MOTION",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortline R-Line Black Edition 4MOTION",
       "vin": "3VVGR7RM8TM149892",
       "stock": "52212",
       "color": "White",
+      "trim": "Comfortline R-Line Black Edition 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/0cbb82d84839.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/70753578/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/70753578/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1430,14 +1680,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortline R-Line Black Edition 4MOTION",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortline R-Line Black Edition 4MOTION",
       "vin": "3VVGR7RM4TM151915",
       "stock": "52216",
       "color": "White",
+      "trim": "Comfortline R-Line Black Edition 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/300c56edc535.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/70784152/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/70784152/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1447,14 +1700,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortline R-Line Black Edition 4MOTION",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortline R-Line Black Edition 4MOTION",
       "vin": "3VVGR7RM8TM152792",
       "stock": "52223",
       "color": "Grey",
+      "trim": "Comfortline R-Line Black Edition 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/d601ecd0c9b7.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/70804744/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/70804744/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1464,14 +1720,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortline R-Line Black Edition 4MOTION",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortline R-Line Black Edition 4MOTION",
       "vin": "3VVGR7RM9TM156866",
       "stock": "52222",
       "color": "Silver",
+      "trim": "Comfortline R-Line Black Edition 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/9e4f2bd0ca42.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/70853800/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/70853800/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1481,14 +1740,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortline R-Line Black Edition 4MOTION",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortline 4MOTION",
       "vin": "3VVER7RMXTM158357",
       "stock": "52226",
       "color": "Grey",
+      "trim": "Comfortline 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/e994844175be.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/70891182/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/70891182/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1498,14 +1760,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortline 4MOTION",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortline R-Line Black Edition 4MOTION",
       "vin": "3VVGR7RM4TM163305",
       "stock": "52230",
       "color": "Blue",
+      "trim": "Comfortline R-Line Black Edition 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/322c9e35d954.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/70947346/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/70947346/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1515,14 +1780,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortline R-Line Black Edition 4MOTION",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortline R-Line Black Edition 4MOTION",
       "vin": "3VVGR7RM1TM164069",
       "stock": "52229",
       "color": "Blue",
+      "trim": "Comfortline R-Line Black Edition 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/694d85d63291.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/70959342/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/70959342/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1532,14 +1800,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortline R-Line Black Edition 4MOTION",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortline R-Line Black Edition 4MOTION",
       "vin": "3VVGR7RM6TM167694",
       "stock": "52237",
       "color": "Green",
+      "trim": "Comfortline R-Line Black Edition 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/f20a53897775.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/71012322/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2026/volkswagen/tiguan/kamloops/bc/71012322/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1549,14 +1820,17 @@
       "odometer_km": 90,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortline R-Line Black Edition 4MOTION",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta Comfortline",
       "vin": "3VWSW7BU4VM006885",
       "stock": "52234",
       "color": "Blue",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/66c5c37a7747.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2027/volkswagen/jetta/kamloops/bc/71222974/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2027/volkswagen/jetta/kamloops/bc/71222974/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1566,8 +1840,10 @@
       "odometer_km": 90,
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Jetta Comfortline",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta GLI",
@@ -1584,13 +1860,16 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "Jetta GLI",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta Comfortline",
       "vin": "3VWSW7BU0VM004888",
       "stock": "52233",
       "color": "White",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/ccd4947ca520.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2027/volkswagen/jetta/kamloops/bc/71223016/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2027/volkswagen/jetta/kamloops/bc/71223016/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1600,14 +1879,17 @@
       "odometer_km": 90,
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Jetta Comfortline",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta Comfortline",
       "vin": "3VWEW7BU1VM005822",
       "stock": "52232",
       "color": "Black",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/10e6a0c3978a.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2027/volkswagen/jetta/kamloops/bc/71223024/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2027/volkswagen/jetta/kamloops/bc/71223024/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1617,14 +1899,17 @@
       "odometer_km": 90,
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Jetta Comfortline",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta Comfortline",
       "vin": "3VWSW7BU4VM004960",
       "stock": "52231",
       "color": "Grey",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/e97e6bf9d7ea.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2027/volkswagen/jetta/kamloops/bc/71223025/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2027/volkswagen/jetta/kamloops/bc/71223025/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1634,14 +1919,17 @@
       "odometer_km": 90,
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Jetta Comfortline",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Taos Highline 4MOTION",
       "vin": "3VV4D7B28VM006342",
       "stock": "52220",
       "color": "Blue",
+      "trim": "Highline 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/2c7d568ef892.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2027/volkswagen/taos/kamloops/bc/71222991/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2027/volkswagen/taos/kamloops/bc/71222991/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1651,14 +1939,17 @@
       "odometer_km": 90,
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Taos Highline 4MOTION",
-      "condition": "new"
+      "model": "Taos",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Taos Highline 4MOTION",
       "vin": "3VV4D7B28VM010293",
       "stock": "52236",
       "color": "Grey",
+      "trim": "Highline 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/edbd6293f360.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2027/volkswagen/taos/kamloops/bc/71223043/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2027/volkswagen/taos/kamloops/bc/71223043/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1668,14 +1959,17 @@
       "odometer_km": 90,
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Taos Highline 4MOTION",
-      "condition": "new"
+      "model": "Taos",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Taos Comfortline 4MOTION",
       "vin": "3VVUD7B2XVM004558",
       "stock": "52219",
       "color": "Blue",
+      "trim": "Comfortline 4MOTION",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/9b036ec40a20.html",
       "source_url": "https://www.volkswagenofkamloops.com/vehicles/2027/volkswagen/taos/kamloops/bc/71223076/?sale_class=new",
       "dealer_url": "https://www.volkswagenofkamloops.com/vehicles/2027/volkswagen/taos/kamloops/bc/71223076/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1685,8 +1979,10 @@
       "odometer_km": 90,
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Taos Comfortline 4MOTION",
-      "condition": "new"
+      "model": "Taos",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     }
   ]
 }
