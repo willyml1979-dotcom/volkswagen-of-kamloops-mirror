@@ -1,7 +1,7 @@
 {
   "dealership": "Volkswagen Of Kamloops",
-  "generated_at": "2026-10-26T08:52:06",
-  "vehicle_count": 78,
+  "generated_at": "2026-10-26T10:53:55",
+  "vehicle_count": 73,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -435,17 +435,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volkswagen Golf GTI GTI Autobahn",
-      "vin": "WVWNE7CD5TW219407",
-      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/7ddc0ae5c3aa.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Golf GTI",
-      "condition": "new",
-      "price": 47219.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Volkswagen Golf R R Black Edition 4MOTION",
       "vin": "WVWKF7CD1TW301750",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/ad59421ef520.html",
@@ -479,17 +468,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volkswagen Taos Comfortline Black 4MOTION",
-      "vin": "3VV2C7B2XTM058238",
-      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/585d22578f93.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "new",
-      "price": 42619.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Volkswagen Tiguan Comfortline R-Line Black Edition 4MOTION",
       "vin": "3VVGR7RM2TM065048",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/0ad09b0398df.html",
@@ -509,17 +487,6 @@
       "model": "Tiguan",
       "condition": "new",
       "price": 42219.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Tiguan Comfortline 4MOTION",
-      "vin": "3VVER7RM4TM083543",
-      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/69c2b96b111a.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new",
-      "price": 45719.0,
       "price_currency": "CAD"
     },
     {
@@ -612,17 +579,6 @@
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortline R-Line Black Edition 4MOTION",
-      "vin": "3VVGR7RM8TM152792",
-      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/d601ecd0c9b7.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new",
-      "price": 49719.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Tiguan Comfortline R-Line Black Edition 4MOTION",
       "vin": "3VVGR7RM9TM156866",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/9e4f2bd0ca42.html",
       "year": 2026,
@@ -630,17 +586,6 @@
       "model": "Tiguan",
       "condition": "new",
       "price": 49719.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Tiguan Comfortline R-Line Black Edition 4MOTION",
-      "vin": "3VVGR7RM4TM163305",
-      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/322c9e35d954.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new",
-      "price": 50219.0,
       "price_currency": "CAD"
     },
     {
