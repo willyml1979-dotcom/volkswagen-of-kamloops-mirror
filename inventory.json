@@ -1,7 +1,7 @@
 {
   "dealership": "Volkswagen Of Kamloops",
-  "generated_at": "2026-10-26T10:53:55",
-  "vehicle_count": 73,
+  "generated_at": "2026-11-17T10:51:28",
+  "vehicle_count": 85,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -17,14 +17,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Volkswagen Jetta Sedan Highline 1.8T 6sp at w/Tip",
-      "vin": "3VWL17AJ8HM401747",
-      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/0b289c3361bc.html",
+      "name": "2017 Toyota Sienna SE 8-Passenger V6",
+      "vin": "5TDXZ3DC5HS820027",
+      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/7420b7c83219.html",
       "year": 2017,
-      "make": "Volkswagen",
-      "model": "Jetta",
+      "make": "Toyota",
+      "model": "Sienna",
       "condition": "used",
-      "price": 18997.0,
+      "price": 25998.0,
       "price_currency": "CAD"
     },
     {
@@ -39,25 +39,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Volkswagen Atlas Comfortline 3.6L 8sp at w/Tip 4MOTION",
-      "vin": "1V2LR2CAXJC589284",
-      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/7605314e37ac.html",
+      "name": "2018 Ford Escape SE - FWD",
+      "vin": "1FMCU0GD9JUB57557",
+      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/9d5f88d7d629.html",
       "year": 2018,
-      "make": "Volkswagen",
-      "model": "Atlas",
+      "make": "Ford",
+      "model": "Escape",
       "condition": "used",
-      "price": 19998.0,
+      "price": 13998.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Volkswagen Tiguan Trendline 2.0T 8sp at w/Tip 4M",
-      "vin": "3VV0B7AX0JM007559",
-      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/348415d46c37.html",
-      "year": 2018,
-      "make": "Volkswagen",
-      "model": "Tiguan",
+      "name": "2019 Honda HR-V Touring-HS 4WD",
+      "vin": "3CZRU6H9XKM106628",
+      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/923398d457c7.html",
+      "year": 2019,
+      "make": "Honda",
+      "model": "HR-V",
       "condition": "used",
-      "price": 18998.0,
+      "price": 25998.0,
       "price_currency": "CAD"
     },
     {
@@ -69,6 +69,28 @@
       "model": "CX-5",
       "condition": "used",
       "price": 24998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Subaru Impreza 4Dr Sport CVT",
+      "vin": "4S3GTAE6XK3733781",
+      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/8a1633d7c096.html",
+      "year": 2019,
+      "make": "Subaru",
+      "model": "Impreza",
+      "condition": "used",
+      "price": 21498.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Volkswagen Tiguan Highline 2.0T 8sp at w/Tip 4M",
+      "vin": "3VV4B7AX8KM192849",
+      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/8c577ea8cb1a.html",
+      "year": 2019,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "used",
+      "price": 23998.0,
       "price_currency": "CAD"
     },
     {
@@ -101,7 +123,18 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "used",
-      "price": 30998.0,
+      "price": 29997.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 Toyota Tacoma Double Cab 4x4 Double Cab Short Bed V6 6A",
+      "vin": "5TFDZ5BN0LX049112",
+      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/0a4e53e1c5bc.html",
+      "year": 2020,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "condition": "used",
+      "price": 42998.0,
       "price_currency": "CAD"
     },
     {
@@ -138,17 +171,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Ford Escape SEL AWD 1.5L",
-      "vin": "1FMCU9H69NUA55248",
-      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/48039e0c2738.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "used",
-      "price": 20997.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Lexus NX 350",
       "vin": "JTJGGCEZ7N5002810",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/7d80ac273ec0.html",
@@ -182,17 +204,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Volkswagen Taos Trendline 1.5T 7sp at DSG w/ Tip 4M",
-      "vin": "3VVAX7B23NM044247",
-      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/023bc5d5cf50.html",
-      "year": 2022,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "used",
-      "price": 20998.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Lincoln Corsair Base AWD",
       "vin": "5LMCJ1DA8PUL03266",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/8d75b4cac364.html",
@@ -204,14 +215,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Volkswagen Tiguan Comfortline 2.0T 8sp at w/Tip 4M",
-      "vin": "3VVMB7AX6PM089419",
-      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/16fa9df1c7e6.html",
+      "name": "2023 Toyota RAV4 Hybrid XLE AWD",
+      "vin": "2T3RWRFV8PW170349",
+      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/9b9332cdf0c8.html",
+      "year": 2023,
+      "make": "Toyota",
+      "model": "RAV4 Hybrid",
+      "condition": "used",
+      "price": 42998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Volkswagen Atlas Highline 3.6L 8sp at w/Tip 4MOTION",
+      "vin": "1V2SR2CA1PC507219",
+      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/1cd91ef31fb5.html",
       "year": 2023,
       "make": "Volkswagen",
-      "model": "Tiguan",
+      "model": "Atlas",
       "condition": "used",
-      "price": 29998.0,
+      "price": 42998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Volkswagen Taos Comfortline 1.5T 7sp at DSG w/ Tip 4M",
+      "vin": "3VVVX7B27PM380536",
+      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/2fa933ad0c8a.html",
+      "year": 2023,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "used",
+      "price": 22998.0,
       "price_currency": "CAD"
     },
     {
@@ -248,14 +281,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Volkswagen Atlas Execline 2.0 TSI 4MOTION",
-      "vin": "1V2FR2CA9RC615060",
-      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/b09d496a7e33.html",
+      "name": "2024 Volkswagen Atlas Cross Sport Execline 2.0 TSI 4MOTION",
+      "vin": "1V2FE2CA4RC228301",
+      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/f89bc7eadebb.html",
       "year": 2024,
       "make": "Volkswagen",
-      "model": "Atlas",
+      "model": "Atlas Cross Sport",
       "condition": "used",
-      "price": 53998.0,
+      "price": 48998.0,
       "price_currency": "CAD"
     },
     {
@@ -281,6 +314,39 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 Volkswagen Tiguan Comfortline 2.0T 8sp at w/Tip 4M",
+      "vin": "3VV2B7AX8RM122253",
+      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/f3a32d1338ee.html",
+      "year": 2024,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "used",
+      "price": 29998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Volkswagen Atlas Comfortline 2.0 TSI 4MOTION",
+      "vin": "1V2LR2CA8SC538528",
+      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/d17ae6e6da6d.html",
+      "year": 2025,
+      "make": "Volkswagen",
+      "model": "Atlas",
+      "condition": "used",
+      "price": 46998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Volkswagen ID. Buzz 1st Edition 4MOTION",
+      "vin": "WVG6YVEB8SH038568",
+      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/d1c2f4a4f55d.html",
+      "year": 2025,
+      "make": "Volkswagen",
+      "model": "ID. Buzz",
+      "condition": "used",
+      "price": 66998.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2025 Volkswagen Jetta Sedan Comfortline Auto",
       "vin": "3VWSX7BUXSM049538",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/f6f3bc80ca6d.html",
@@ -289,6 +355,28 @@
       "model": "Jetta",
       "condition": "used",
       "price": 29998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Volkswagen Taos Comfortline Black Edition 4MOTION",
+      "vin": "3VV2C7B20SM042483",
+      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/be72a34732b8.html",
+      "year": 2025,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "used",
+      "price": 30998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Volkswagen Taos Highline 4MOTION",
+      "vin": "3VV4C7B21SM064100",
+      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/25bf3b2e9dd5.html",
+      "year": 2025,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "used",
+      "price": 37999.0,
       "price_currency": "CAD"
     },
     {
@@ -303,6 +391,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025 Volkswagen Tiguan Trendline 4MOTION",
+      "vin": "3VVBR7RM2SM052664",
+      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/a95fad993d7a.html",
+      "year": 2025,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "used",
+      "price": 34999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Toyota 4Runner ",
+      "vin": "JTEVA5BR2T5091819",
+      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/66e3ad58d3d2.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "4Runner",
+      "condition": "used",
+      "price": 60998.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Volkswagen Atlas Cross Sport Execline 4MOTION",
       "vin": "1V2FC2CAXTC211970",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/3ba8bb95279c.html",
@@ -311,6 +421,28 @@
       "model": "Atlas Cross Sport",
       "condition": "used",
       "price": 59998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Volkswagen Atlas Cross Sport Execline 4MOTION",
+      "vin": "1V2FC2CA1TC236305",
+      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/87037ce14163.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Atlas Cross Sport",
+      "condition": "used",
+      "price": 59995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Volkswagen Taos Comfortline 4MOTION",
+      "vin": "3VVUC7B20TM069337",
+      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/6f9a645b9483.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "used",
+      "price": 35998.0,
       "price_currency": "CAD"
     },
     {
