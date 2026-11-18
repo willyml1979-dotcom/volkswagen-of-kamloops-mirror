@@ -1,7 +1,7 @@
 {
   "dealership": "Volkswagen Of Kamloops",
-  "generated_at": "2026-11-18T10:47:31",
-  "vehicle_count": 86,
+  "generated_at": "2026-11-18T12:38:58",
+  "vehicle_count": 79,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -578,17 +578,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volkswagen Tiguan Comfortline R-Line Black Edition 4MOTION",
-      "vin": "3VVGR7RM2TM065048",
-      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/0ad09b0398df.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new",
-      "price": 49219.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Volkswagen Tiguan Trendline 4MOTION",
       "vin": "3VVBR7RM0TM083333",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/44c1a41fe8af.html",
@@ -765,28 +754,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Volkswagen Taos Comfortline 4MOTION",
-      "vin": "3VVUD7B28VM030947",
-      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/c4d824329ee8.html",
-      "year": 2027,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "new",
-      "price": 40919.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Volkswagen Taos Comfortline 4MOTION",
-      "vin": "3VVUD7B29VM030780",
-      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/ef4899f6d455.html",
-      "year": 2027,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "new",
-      "price": 40919.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Volkswagen Taos Comfortline Black 4MOTION",
       "vin": "3VV2D7B26VM018268",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/76585f66adc0.html",
@@ -806,17 +773,6 @@
       "model": "Tiguan",
       "condition": "new",
       "price": 50519.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Volkswagen Tiguan Highline Turbo R-Line 4MOTION",
-      "vin": "3VVUW7RM1VM004823",
-      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/17716fe992d0.html",
-      "year": 2027,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new",
-      "price": 55019.0,
       "price_currency": "CAD"
     },
     {
@@ -908,28 +864,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Volkswagen Tiguan Comfortline 4MOTION",
-      "vin": "3VVMR7RM7VM020886",
-      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/88c3304a0167.html",
-      "year": 2027,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new",
-      "price": 47519.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Volkswagen Tiguan Comfortline R-Line Black Edition 4MOTION",
-      "vin": "3VVGR7RMXVM020572",
-      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/830e387649dc.html",
-      "year": 2027,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new",
-      "price": 50019.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Volkswagen Tiguan Highline Turbo R-Line 4MOTION",
       "vin": "3VVUW7RM7VM011856",
       "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/10738b5c9141.html",
@@ -938,17 +872,6 @@
       "model": "Tiguan",
       "condition": "new",
       "price": 55519.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Volkswagen Tiguan Comfortline R-Line Black Edition 4MOTION",
-      "vin": "3VVGR7RM1VM021772",
-      "url": "https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/new/883511244940.html",
-      "year": 2027,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new",
-      "price": 50019.0,
       "price_currency": "CAD"
     }
   ]

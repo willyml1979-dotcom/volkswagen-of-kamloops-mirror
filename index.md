@@ -1,6 +1,6 @@
 # Volkswagen of Kamloops
 
- dealership in Kamloops. AI-readable inventory mirror, about 86 vehicles.
+ dealership in Kamloops. AI-readable inventory mirror, about 79 vehicles.
 
 - Official website: https://www.volkswagenofkamloops.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/volkswagen-of-kamloops-mirror/used/
