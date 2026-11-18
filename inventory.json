@@ -1,6 +1,6 @@
 {
   "dealership": "Volkswagen Of Kamloops",
-  "generated_at": "2026-11-17T15:16:54",
+  "generated_at": "2026-11-18T01:45:18",
   "vehicle_count": 82,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -167,7 +167,7 @@
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
       "condition": "used",
-      "price": 39998.0,
+      "price": 38997.0,
       "price_currency": "CAD"
     },
     {
